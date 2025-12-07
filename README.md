@@ -26,10 +26,10 @@ presentation/
 ## Team Members & Roles  
 - **Kristin Sells** – Research, GitHub  
 - **David Huang** – Research, StoryMap Building  
-- **Magan Zeng** – Visualization & Research  
+- **Magan Zeng** – Story Map, Visualization & Research  
 - **Ashley Chen** – Research & Presentation  
 - **Hasib Malik** – Project Management & Review  
-- **Kevin Huang** – Map Creation & Visualization  
+- **Kevin Huang** – Research & Visualization  
 - **Emilly Hernandez** – Research & Presentation  
 - **Kimberly Reyes** – Research  
 
