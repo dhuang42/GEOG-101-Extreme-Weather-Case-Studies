@@ -24,7 +24,7 @@ presentation/
 - **presentation/** → final slide deck or presentation materials  
 
 ## Team Members & Roles  
-- **Kristin Sells** – Research, GitHub  
+- **Kristin Sells** – GitHub, research  
 - **David Huang** – Research, StoryMap Building  
 - **Magan Zeng** – Story Map, Visualization & Research  
 - **Ashley Chen** – Research & Presentation  
