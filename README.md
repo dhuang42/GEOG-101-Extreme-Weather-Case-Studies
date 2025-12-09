@@ -56,3 +56,6 @@ The full ArcGIS StoryMap can be viewed here:
 - US Department of Commerce, National Oceanic and Atmospheric Administration. “Hurricane Ida.” NOS Fiscal Year 2021 Year in Review, October 22, 2021. https://oceanservice.noaa.gov/annualreport/2021/hurricane-ida.html#:~:text=Hurricane%20Ida%20made%20landfall%20as,a.m.%20on%20August%2029%2C%202021.
 - “11 Facts about Hurricane Sandy.” DoSomething.org. Accessed December 8, 2025. https://dosomething.org/article/11-facts-about-hurricane-sandy.
 - Sandy funding tracker. Accessed December 8, 2025. https://www.nyc.gov/content/sandytracker/pages/overview.
+Press, Associated. n.d. “Cuomo: Sandy Cost NY, NYC $32B in Damage and Loss.” POLITICO. https://www.politico.com/story/2012/11/cuomo-sandy-cost-ny-nyc-32b-in-damage-and-loss-084256.
+‌Nations, United. 2025. “Hurricane Ida - Interconnected Disaster Risks.” Interconnectedrisks.org. 2025. https://interconnectedrisks.org/2022/disasters/hurricane-ida.
+“Hurricane Ida - CDBGDR.” n.d. Www.nyc.gov. https://www.nyc.gov/site/cdbgdr/hurricane-ida/hurricane-ida.page.
